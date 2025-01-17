@@ -1,0 +1,4 @@
+__pycache__
+
+# ignore due to not supported file size
+results/quality metrics.csv
